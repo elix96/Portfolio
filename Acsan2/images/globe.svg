@@ -1,0 +1,180 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml"><head><meta name="viewport" content="width=device-width" /><title>http://hostking.themeebit.com/images/globe.svg</title><link rel="stylesheet" type="text/css" href="resource://content-accessible/viewsource.css" /></head><body id="viewsource" class="highlight" style="-moz-tab-size: 4" contextmenu="actions"><pre id="line1"><span></span><span class="pi">&lt;?xml version="1.0" encoding="utf-8"?&gt;</span><span>
+<span id="line2"></span></span><span class="comment">&lt;!-- Generator: Adobe Illustrator 19.2.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  --&gt;</span><span>
+<span id="line3"></span></span><span>&lt;<span class="start-tag">svg</span> <span class="attribute-name">version</span>="<a class="attribute-value">1.1</a>" <span class="attribute-name">id</span>="<a class="attribute-value">Layer_1</a>" <span class="attribute-name">xmlns</span>="<a class="attribute-value">http://www.w3.org/2000/svg</a>" <span class="attribute-name">xmlns:xlink</span>="<a class="attribute-value">http://www.w3.org/1999/xlink</a>" <span class="attribute-name">x</span>="<a class="attribute-value">0px</a>" <span class="attribute-name">y</span>="<a class="attribute-value">0px</a>"
+<span id="line4"></span>	 <span class="attribute-name">viewBox</span>="<a class="attribute-value">0 0 349.9 293.8</a>" <span class="attribute-name">style</span>="<a class="attribute-value">enable-background:new 0 0 349.9 293.8;</a>" <span class="attribute-name">xml:space</span>="<a class="attribute-value">preserve</a>"&gt;</span><span>
+<span id="line5"></span></span><span>&lt;<span class="start-tag">style</span> <span class="attribute-name">type</span>="<a class="attribute-value">text/css</a>"&gt;</span><span>
+<span id="line6"></span>	.glob_path1{opacity:0.6;fill:#FFFFFF;}
+<span id="line7"></span>	.globe_path2{opacity:0;fill:none;stroke:#FFFFFF;stroke-width:0.1;stroke-miterlimit:10;}
+<span id="line8"></span>	.globe_path3{opacity:0.5;}
+<span id="line9"></span>	.globe_path4{fill:none;stroke:#FFFFFF;stroke-miterlimit:10;stroke-dasharray:11.9484,11.9484;}
+<span id="line10"></span>	.globe_path5{opacity:0.5;fill:none;stroke:#FFFFFF;stroke-miterlimit:10;}
+<span id="line11"></span>	.globe_path6{fill:#375972;}
+<span id="line12"></span>	.globe_path7{fill:#FFFFFF;}
+<span id="line13"></span>	.globe_path8{fill:#E6E6E6;}
+<span id="line14"></span>	.globe_path9{fill:#4D4D4D;}
+<span id="line15"></span>	.globe_path10{fill:#313131;}
+<span id="line16"></span>	.globe_path11{fill:#FFD15F;}
+<span id="line17"></span>	.globe_path12{fill:#FBB03B;}
+<span id="line18"></span>	.globe_path13{fill:#232323;}
+<span id="line19"></span>	.globe_path14{fill:#47BDD7;}
+<span id="line20"></span>	.globe_path15{fill:#ECE6DA;}
+<span id="line21"></span>	.globe_path16{fill:#24394C;}
+<span id="line22"></span>	.globe_path17{fill:none;}
+<span id="line23"></span></span><span>&lt;/<span class="end-tag">style</span>&gt;</span><span>
+<span id="line24"></span></span><span>&lt;<span class="start-tag">g</span> <span class="attribute-name">id</span>="<a class="attribute-value">globe</a>"&gt;</span><span>
+<span id="line25"></span>	</span><span>&lt;<span class="start-tag">g</span>&gt;</span><span>
+<span id="line26"></span>		</span><span>&lt;<span class="start-tag">path</span> <span class="attribute-name">class</span>="<a class="attribute-value">glob_path1</a>" <span class="attribute-name">d</span>="<a class="attribute-value">M251.4,107.3l-5.7,0.1l-2.9-3.1l-0.6-5.1l-2.9,1.6l-1.6,6.2l-4.2-4.5l-0.2-4.3l-4.1-3.5l-1.5-1.5H223l1.5,4.2
+<span id="line27"></span>			l5.7,3.2l1,1l-1.2,0.6l0,3.3l-2.8,1.2l-2.4-0.5l-1.5-2.1l3.9,0.2l1-1.4l-8.6-5.8l-0.7-2.5l-3.5,3.1l-3.5-0.7l-5.4,7l-1,2.7
+<span id="line28"></span>			l-3.4,0.3l-5.1,0l-3-1.4l-0.9-6l1.1-2.9l5.2-1.1l5.7,1.1l0.7-3.1l-2.4-0.6l0.8-4.9l5.7-0.9l4-5.6l4.1-0.7l3.7,0.5h1.3l-0.7-5.3
+<span id="line29"></span>			l-4.5,1.8l-1.6-3.9l-2.6-0.4l-0.5-2.7l2.1-2.3l5.1-2l1.3-2.3c-19.3-17-44.5-27.3-72.2-27.4h-0.3c-24.1,0-46.3,7.8-64.5,21l5.5,0
+<span id="line30"></span>			l2.5,1.4l4.7,1l0.4,1.8l7.4,0.3l-1-2.4l-6.6-0.2l1.6-1.5l-0.5-1.7h-5.9L99,52h6.2l2.9,4l4.8,0.3l2.9-2.8l2.2,1.1l-4,3.9l-5.3,0.1
+<span id="line31"></span>			c0.3,0,0.5,3.8,0.5,3.8l6.7-0.2l0.7-1.8l4.6-0.3l0.5-2.7l-2.7-0.5l0.9-2.5l2.1-0.6l7.3,0.4l-4,3.6l0.7,2.8l4.2,0.6l-0.3-5.1l4-2.1
+<span id="line32"></span>			l7.1-0.8l8.2,3.6l2.1,0.9v3.9l3.3,0.8l-1.6,3.1h-4.7l-1.4,3.5l-10.6-2.5l8.3-4.4l-3.2-2.7l-7.2,0.9l-0.6,0.7l0,0l-0.1,0.2
+<span id="line33"></span>			l-2.1,2.2l-3.4,0.3l0.3,1.7l1.2,0.5l0,0.6l-2.8,0.4l-0.2,1.6l-2.7,0.1l-0.5-3.2l-4.8,1.5l-9.8,5.7l1.1,4l2.7,1.8l5.5,0.8v6.2
+<span id="line34"></span>			l2.5-0.4l2.3-4.8l5.8-1.9v-7.4l3.2-2.4l7.8,1.8l-0.6,4.9h2.1l5.7-2.8l0.3,6.5l1.9,1.2l2.3,1.4l-0.2,3.8l-2.1,0.7l-1.9,0.7l0.3,1.3
+<span id="line35"></span>			l1.7,0.8l3.2,1.5l-0.1,2.6l-1.4,0.1c0,0,0-0.1,0-0.1l-1.7-0.5l-4.4-1.4l-0.3-2l1.8-1.2v-1.8l-1.9-0.5l-0.5,1.6l-3.4,0.5l-0.3-0.1
+<span id="line36"></span>			v0.2l-1.2,0.2l-0.9-1.9l-1.1-0.5h-2.4l-1.1,0.9v2l2,0.7l2,0.3l-0.5,0.2l-1.8,2l-0.8-1l-1.8-0.5l-4.9,4.6l0.6,0.5l-7.2,4l-6.8,7
+<span id="line37"></span>			l-0.5,3.1l-6.8,4.4l-3.3,3.4l0.4,6.8l-4.6-2.2l0-3.9H87l-6.7,3.4l-2.9,5.4l-1.2,4.2l1.9,4.1l5.3,0.6l8.4-5.6l0.7,2.8l-2.6,4.8
+<span id="line38"></span>			l6.4,1.1l0.6,9.9l8.8,1.5l5.6-6.4l6.8,1.4l2.4,3.3l6.5-0.4l0.2-1.9l3.6,1.7l4,6.3l6.9,0.1l2.6,4.5l0.4,5.5l4.9,1.9l2.7,1l9.7,0.1
+<span id="line39"></span>			l2.8,4.6l4.3,1.4l-0.8,3.8l-4.7,6l-1.4,13.2l-4.2,3.4l-6.3-0.2l-2.1,3.6v0l1.5,6.8l-1.5,2l-5.3,6.8l-2.2,4l-6.5,3.1l-4.3,0.7
+<span id="line40"></span>			l-0.2,1.8l3,0.9l-0.4,1.9l-2.7,2.6l1.6,2.1l3.2,0.1l-0.2,2.5l-0.9,2.5l-0.3,2l4.8,4l-0.6,2.1l-6.5-0.1l-6.5-5.7l-5.1-8.9l0.7-8.6
+<span id="line41"></span>			l-3.8-5.1l1.5-8.7l-2.3-0.6v-18.8c0,0-6.4-4.8-6.8-4.8c-0.4,0-3.4-0.8-3.4-0.8l-0.6-3.6l-8.3-10.4l0.8-3.7l0.3-6.1l5.7-4l-0.8-6.8
+<span id="line42"></span>			l-8.4-0.6l-6.6-7.5l-4.7-1.3l-3-0.5l0.4-2.7l-3.8-0.5v1.5l-9.6-2.4l-3.8-5.9l1.6-2.9l-6.1-8.8l-1.1-6.5h-2.5l0.8,6.3l4.2,6.5
+<span id="line43"></span>			l-0.5,2.6l-3.5-0.5l-4.4-7.5v-8.7l-4.5-2.2V104c-5.6,13.2-8.8,27.7-8.8,42.9c0,60.5,49.2,109.7,109.7,109.7h0.3
+<span id="line44"></span>			c34.2-0.1,64.8-15.9,84.8-40.5h-3.6v-7.3l-4.2-5.6v-8.8l-3.2-3.2l-0.3-3.7l4.1-7.8l-7.7-13.6l0.9-9.2l-6.9-0.7l-2.6-2.6h-4.6
+<span id="line45"></span>			l-2.4,2.2h-8.2l-0.3,0.7h-4.6l-10.5-11.9l0.1-9.3l1.7-0.6l0.6-3.6h-2.5l-1-3.7l12.1-8.8v-6.2l5.9-3.3l2.4,0.2h4.9l3.8-2.1l12.3-1
+<span id="line46"></span>			v6.3l9.7,2.5l1.9,1.4h1.8v-3.4l5.6-0.6l5.3,4h8.7l0.6-0.6C253.5,113,252.5,110.1,251.4,107.3z M199.6,76.1l1-1.6l3.6-0.7l0.9,4.4
+<span id="line47"></span>			l1.9,3.1l1.3,1.5l2.3,0.9l-2.2,2.6l-4.2,0.4H201l0.4-3.8l2.6-0.5l-0.2-1.8l-2.5-1.5l-1.7-1.2V76.1z M193.7,82.9l2.2-3.5l2.9-0.7
+<span id="line48"></span>			l2.1,0.9l-0.2,2.4l-4.5,3.2h-2.5V82.9z M134.1,96.4l-2.3,0.2l0.1-1.6l1-1.3l1.4,1.1L134.1,96.4z M142.1,93.6l-1.6,0.1l-0.3,1.5
+<span id="line49"></span>			L139,96l-1.9,0.2c-0.1-0.5-0.1-0.8-0.1-0.8h-0.7v-1.6h3.1l0.6-1.7l1.3,0l1.4,0.3L142.1,93.6z</a>"<span>/</span>&gt;</span><span>
+<span id="line50"></span>	</span><span>&lt;/<span class="end-tag">g</span>&gt;</span><span>
+<span id="line51"></span>	</span><span>&lt;<span class="start-tag">circle</span> <span class="attribute-name">class</span>="<a class="attribute-value">globe_path2</a>" <span class="attribute-name">cx</span>="<a class="attribute-value">149.1</a>" <span class="attribute-name">cy</span>="<a class="attribute-value">146.9</a>" <span class="attribute-name">r</span>="<a class="attribute-value">109.7</a>"<span>/</span>&gt;</span><span>
+<span id="line52"></span></span><span>&lt;/<span class="end-tag">g</span>&gt;</span><span>
+<span id="line53"></span></span><span>&lt;<span class="start-tag">g</span> <span class="attribute-name">id</span>="<a class="attribute-value">circle</a>"&gt;</span><span>
+<span id="line54"></span>	</span><span>&lt;<span class="start-tag">g</span> <span class="attribute-name">class</span>="<a class="attribute-value">globe_path3</a>"&gt;</span><span>
+<span id="line55"></span>		</span><span>&lt;<span class="start-tag">circle</span> <span class="attribute-name">class</span>="<a class="attribute-value">globe_path4</a>" <span class="attribute-name">cx</span>="<a class="attribute-value">146.9</a>" <span class="attribute-name">cy</span>="<a class="attribute-value">146.9</a>" <span class="attribute-name">r</span>="<a class="attribute-value">117.9</a>"<span>/</span>&gt;</span><span>
+<span id="line56"></span>	</span><span>&lt;/<span class="end-tag">g</span>&gt;</span><span>
+<span id="line57"></span></span><span>&lt;/<span class="end-tag">g</span>&gt;</span><span>
+<span id="line58"></span></span><span>&lt;<span class="start-tag">g</span> <span class="attribute-name">id</span>="<a class="attribute-value">elements</a>"&gt;</span><span>
+<span id="line59"></span>	</span><span>&lt;<span class="start-tag">circle</span> <span class="attribute-name">class</span>="<a class="attribute-value">globe_path5</a>" <span class="attribute-name">cx</span>="<a class="attribute-value">146.9</a>" <span class="attribute-name">cy</span>="<a class="attribute-value">146.9</a>" <span class="attribute-name">r</span>="<a class="attribute-value">134.4</a>"<span>/</span>&gt;</span><span>
+<span id="line60"></span>	</span><span>&lt;<span class="start-tag">path</span> <span class="attribute-name">class</span>="<a class="attribute-value">globe_path6</a>" <span class="attribute-name">d</span>="<a class="attribute-value">M79.6,166.4l-8.1-7.2h-6.1l-2.7,3.4l-2.7-3.4h-3.7l-4.9,4.6l-3.2-4.6H44L41,162l-2.9-2.7h-2.8
+<span id="line61"></span>		c-2.6-5-7.8-8.5-13.9-8.5c-8.6,0-15.6,7-15.6,15.6c0,8.6,7,15.6,15.6,15.6c6.1,0,11.3-3.4,13.9-8.5h36.2L79.6,166.4z M26,166.4
+<span id="line62"></span>		c0,2.6-2.1,4.6-4.6,4.6c-2.6,0-4.6-2.1-4.6-4.6s2.1-4.6,4.6-4.6C23.9,161.8,26,163.9,26,166.4z</a>"<span>/</span>&gt;</span><span>
+<span id="line63"></span>	</span><span>&lt;<span class="start-tag">polygon</span> <span class="attribute-name">class</span>="<a class="attribute-value">globe_path7</a>" <span class="attribute-name">points</span>="<a class="attribute-value">149.4,202.7 149.4,202.8 149.4,202.7 	</a>"<span>/</span>&gt;</span><span>
+<span id="line64"></span>	</span><span>&lt;<span class="start-tag">circle</span> <span class="attribute-name">class</span>="<a class="attribute-value">globe_path5</a>" <span class="attribute-name">cx</span>="<a class="attribute-value">146.9</a>" <span class="attribute-name">cy</span>="<a class="attribute-value">146.9</a>" <span class="attribute-name">r</span>="<a class="attribute-value">146.4</a>"<span>/</span>&gt;</span><span>
+<span id="line65"></span>	</span><span>&lt;<span class="start-tag">g</span>&gt;</span><span>
+<span id="line66"></span>		</span><span>&lt;<span class="start-tag">path</span> <span class="attribute-name">class</span>="<a class="attribute-value">globe_path7</a>" <span class="attribute-name">d</span>="<a class="attribute-value">M267.9,81.1c-0.8-11.6-10-20.9-21.6-21.7v0h-3.1v0c-11.6,0.8-20.9,10-21.7,21.7h0v3.1h0
+<span id="line67"></span>			c0.8,11.6,10,20.9,21.7,21.6v0.1h3.1v-0.1c11.6-0.8,20.9-10,21.6-21.6h0.1L267.9,81.1L267.9,81.1z M236,64.4
+<span id="line68"></span>			c-1.5,2-2.8,4.5-3.7,7.3h-4.6C229.7,68.6,232.6,66.1,236,64.4L236,64.4z M226.1,74.9h5.4c-0.4,2-0.7,4-0.8,6.2h-6.2
+<span id="line69"></span>			C224.7,78.9,225.3,76.8,226.1,74.9L226.1,74.9z M224.6,84.2h6.2c0.1,2.2,0.3,4.3,0.8,6.2h-5.4C225.3,88.4,224.7,86.4,224.6,84.2
+<span id="line70"></span>			L224.6,84.2z M227.7,93.5h4.6c0.9,2.8,2.2,5.3,3.7,7.3C232.6,99.2,229.7,96.6,227.7,93.5L227.7,93.5z M243.1,102.6
+<span id="line71"></span>			c-3.2-0.8-5.9-4.3-7.6-9.1h7.6V102.6z M243.1,90.4h-8.5c-0.4-1.9-0.7-4-0.8-6.2h9.3V90.4z M243.1,81.1h-9.3
+<span id="line72"></span>			c0.1-2.2,0.4-4.3,0.8-6.2h8.5V81.1z M243.1,71.8h-7.6c1.7-4.8,4.4-8.2,7.6-9.1V71.8z M261.7,71.8H257c-0.9-2.8-2.2-5.3-3.7-7.3
+<span id="line73"></span>			C256.8,66.1,259.6,68.6,261.7,71.8L261.7,71.8z M246.2,62.7c3.2,0.8,5.9,4.3,7.6,9.1h-7.6V62.7z M246.2,74.9h8.5
+<span id="line74"></span>			c0.4,1.9,0.7,4,0.8,6.2h-9.3V74.9z M246.2,84.2h9.3c-0.1,2.2-0.4,4.3-0.8,6.2h-8.5V84.2z M246.2,102.6v-9.1h7.6
+<span id="line75"></span>			C252.1,98.3,249.4,101.7,246.2,102.6L246.2,102.6z M253.4,100.8c1.5-2,2.8-4.5,3.7-7.3h4.6C259.6,96.6,256.8,99.2,253.4,100.8
+<span id="line76"></span>			L253.4,100.8z M263.3,90.4h-5.4c0.4-2,0.7-4,0.8-6.2h6.2C264.6,86.4,264.1,88.4,263.3,90.4L263.3,90.4z M258.6,81.1
+<span id="line77"></span>			c-0.1-2.2-0.3-4.3-0.8-6.2h5.4c0.8,1.9,1.3,4,1.5,6.2H258.6z M258.6,81.1</a>"<span>/</span>&gt;</span><span>
+<span id="line78"></span>	</span><span>&lt;/<span class="end-tag">g</span>&gt;</span><span>
+<span id="line79"></span>	</span><span>&lt;<span class="start-tag">g</span>&gt;</span><span>
+<span id="line80"></span>		</span><span>&lt;<span class="start-tag">g</span>&gt;</span><span>
+<span id="line81"></span>			</span><span>&lt;<span class="start-tag">g</span>&gt;</span><span>
+<span id="line82"></span>				</span><span>&lt;<span class="start-tag">path</span> <span class="attribute-name">class</span>="<a class="attribute-value">globe_path7</a>" <span class="attribute-name">d</span>="<a class="attribute-value">M146.9,93h-13.1c-12.4,0-22.5,10.1-22.5,22.5v21h10.9v-21c0-6.4,5.2-11.6,11.6-11.6h13.1V93z</a>"<span>/</span>&gt;</span><span>
+<span id="line83"></span>				</span><span>&lt;<span class="start-tag">path</span> <span class="attribute-name">class</span>="<a class="attribute-value">globe_path8</a>" <span class="attribute-name">d</span>="<a class="attribute-value">M146.9,93H160c12.4,0,22.5,10.1,22.5,22.5v21h-10.9v-21c0-6.4-5.2-11.6-11.6-11.6h-13.1V93z</a>"<span>/</span>&gt;</span><span>
+<span id="line84"></span>			</span><span>&lt;/<span class="end-tag">g</span>&gt;</span><span>
+<span id="line85"></span>			</span><span>&lt;<span class="start-tag">g</span>&gt;</span><span>
+<span id="line86"></span>				</span><span>&lt;<span class="start-tag">path</span> <span class="attribute-name">class</span>="<a class="attribute-value">globe_path7</a>" <span class="attribute-name">d</span>="<a class="attribute-value">M146.9,93h-13.1c-12.4,0-22.5,10.1-22.5,22.5v21h10.9v-21c0-6.4,5.2-11.6,11.6-11.6h13.1V93z</a>"<span>/</span>&gt;</span><span>
+<span id="line87"></span>				</span><span>&lt;<span class="start-tag">path</span> <span class="attribute-name">class</span>="<a class="attribute-value">globe_path8</a>" <span class="attribute-name">d</span>="<a class="attribute-value">M146.9,93H160c12.4,0,22.5,10.1,22.5,22.5v21h-10.9v-21c0-6.4-5.2-11.6-11.6-11.6h-13.1V93z</a>"<span>/</span>&gt;</span><span>
+<span id="line88"></span>			</span><span>&lt;/<span class="end-tag">g</span>&gt;</span><span>
+<span id="line89"></span>		</span><span>&lt;/<span class="end-tag">g</span>&gt;</span><span>
+<span id="line90"></span>		</span><span>&lt;<span class="start-tag">g</span>&gt;</span><span>
+<span id="line91"></span>			</span><span>&lt;<span class="start-tag">g</span>&gt;</span><span>
+<span id="line92"></span>				</span><span>&lt;<span class="start-tag">rect</span> <span class="attribute-name">x</span>="<a class="attribute-value">106.7</a>" <span class="attribute-name">y</span>="<a class="attribute-value">134.8</a>" <span class="attribute-name">class</span>="<a class="attribute-value">globe_path8</a>" <span class="attribute-name">width</span>="<a class="attribute-value">40.2</a>" <span class="attribute-name">height</span>="<a class="attribute-value">63.2</a>"<span>/</span>&gt;</span><span>
+<span id="line93"></span>				
+<span id="line94"></span>					</span><span>&lt;<span class="start-tag">rect</span> <span class="attribute-name">x</span>="<a class="attribute-value">146.9</a>" <span class="attribute-name">y</span>="<a class="attribute-value">134.8</a>" <span class="attribute-name">transform</span>="<a class="attribute-value">matrix(-1 -1.224647e-016 1.224647e-016 -1 334.0101 332.8158)</a>" <span class="attribute-name">class</span>="<a class="attribute-value">globe_path10</a>" <span class="attribute-name">width</span>="<a class="attribute-value">40.2</a>" <span class="attribute-name">height</span>="<a class="attribute-value">63.2</a>"<span>/</span>&gt;</span><span>
+<span id="line95"></span>			</span><span>&lt;/<span class="end-tag">g</span>&gt;</span><span>
+<span id="line96"></span>			</span><span>&lt;<span class="start-tag">g</span>&gt;</span><span>
+<span id="line97"></span>				</span><span>&lt;<span class="start-tag">rect</span> <span class="attribute-name">x</span>="<a class="attribute-value">106.7</a>" <span class="attribute-name">y</span>="<a class="attribute-value">134.8</a>" <span class="attribute-name">class</span>="<a class="attribute-value">globe_path11</a>" <span class="attribute-name">width</span>="<a class="attribute-value">40.2</a>" <span class="attribute-name">height</span>="<a class="attribute-value">63.2</a>"<span>/</span>&gt;</span><span>
+<span id="line98"></span>				
+<span id="line99"></span>					</span><span>&lt;<span class="start-tag">rect</span> <span class="attribute-name">x</span>="<a class="attribute-value">146.9</a>" <span class="attribute-name">y</span>="<a class="attribute-value">134.8</a>" <span class="attribute-name">transform</span>="<a class="attribute-value">matrix(-1 -1.224647e-016 1.224647e-016 -1 334.0101 332.8158)</a>" <span class="attribute-name">class</span>="<a class="attribute-value">globe_path12</a>" <span class="attribute-name">width</span>="<a class="attribute-value">40.2</a>" <span class="attribute-name">height</span>="<a class="attribute-value">63.2</a>"<span>/</span>&gt;</span><span>
+<span id="line100"></span>			</span><span>&lt;/<span class="end-tag">g</span>&gt;</span><span>
+<span id="line101"></span>		</span><span>&lt;/<span class="end-tag">g</span>&gt;</span><span>
+<span id="line102"></span>		</span><span>&lt;<span class="start-tag">circle</span> <span class="attribute-name">class</span>="<a class="attribute-value">globe_path12</a>" <span class="attribute-name">cx</span>="<a class="attribute-value">146.9</a>" <span class="attribute-name">cy</span>="<a class="attribute-value">166.4</a>" <span class="attribute-name">r</span>="<a class="attribute-value">16.3</a>"<span>/</span>&gt;</span><span>
+<span id="line103"></span>		</span><span>&lt;<span class="start-tag">path</span> <span class="attribute-name">class</span>="<a class="attribute-value">globe_path13</a>" <span class="attribute-name">d</span>="<a class="attribute-value">M152.8,163.2c0-3.3-2.7-5.9-5.9-5.9c-3.3,0-5.9,2.7-5.9,5.9c0,2.5,1.6,4.7,3.9,5.6v4.8
+<span id="line104"></span>			c0,1.1,0.9,2.1,2.1,2.1c1.1,0,2.1-0.9,2.1-2.1v-4.8C151.2,167.9,152.8,165.7,152.8,163.2z</a>"<span>/</span>&gt;</span><span>
+<span id="line105"></span>	</span><span>&lt;/<span class="end-tag">g</span>&gt;</span><span>
+<span id="line106"></span>	</span><span>&lt;<span class="start-tag">g</span>&gt;</span><span>
+<span id="line107"></span>		</span><span>&lt;<span class="start-tag">g</span>&gt;</span><span>
+<span id="line108"></span>			</span><span>&lt;<span class="start-tag">path</span> <span class="attribute-name">class</span>="<a class="attribute-value">globe_path7</a>" <span class="attribute-name">d</span>="<a class="attribute-value">M283.2,236.7c0,2.4-1.9,4.3-4.3,4.3l-40.4,0.1c-2.4,0-4.3-1.9-4.3-4.3l-0.1-94.5c0-2.4,1.9-4.3,4.3-4.3
+<span id="line109"></span>				l40.4-0.1c2.4,0,4.3,1.9,4.3,4.3L283.2,236.7z</a>"<span>/</span>&gt;</span><span>
+<span id="line110"></span>			
+<span id="line111"></span>				</span><span>&lt;<span class="start-tag">rect</span> <span class="attribute-name">x</span>="<a class="attribute-value">235.9</a>" <span class="attribute-name">y</span>="<a class="attribute-value">150.6</a>" <span class="attribute-name">transform</span>="<a class="attribute-value">matrix(1 -1.573018e-003 1.573018e-003 1 -0.2962 0.4071)</a>" <span class="attribute-name">class</span>="<a class="attribute-value">globe_path14</a>" <span class="attribute-name">width</span>="<a class="attribute-value">45.4</a>" <span class="attribute-name">height</span>="<a class="attribute-value">75.9</a>"<span>/</span>&gt;</span><span>
+<span id="line112"></span>			
+<span id="line113"></span>				</span><span>&lt;<span class="start-tag">ellipse</span> <span class="attribute-name">transform</span>="<a class="attribute-value">matrix(1 -1.577830e-003 1.577830e-003 1 -0.3686 0.4085)</a>" <span class="attribute-name">class</span>="<a class="attribute-value">globe_path8</a>" <span class="attribute-name">cx</span>="<a class="attribute-value">258.7</a>" <span class="attribute-name">cy</span>="<a class="attribute-value">233.8</a>" <span class="attribute-name">rx</span>="<a class="attribute-value">4.3</a>" <span class="attribute-name">ry</span>="<a class="attribute-value">4.3</a>"<span>/</span>&gt;</span><span>
+<span id="line114"></span>			</span><span>&lt;<span class="start-tag">path</span> <span class="attribute-name">class</span>="<a class="attribute-value">globe_path8</a>" <span class="attribute-name">d</span>="<a class="attribute-value">M263.9,145.4l-14.2,0c-0.4,0-0.8-0.3-0.8-0.8l0,0c0-0.4,0.3-0.8,0.8-0.8l14.2,0c0.4,0,0.8,0.3,0.8,0.8l0,0
+<span id="line115"></span>				C264.6,145,264.3,145.4,263.9,145.4z</a>"<span>/</span>&gt;</span><span>
+<span id="line116"></span>			
+<span id="line117"></span>				</span><span>&lt;<span class="start-tag">ellipse</span> <span class="attribute-name">transform</span>="<a class="attribute-value">matrix(1 -1.631000e-003 1.631000e-003 1 -0.2355 0.4373)</a>" <span class="attribute-name">class</span>="<a class="attribute-value">globe_path15</a>" <span class="attribute-name">cx</span>="<a class="attribute-value">268</a>" <span class="attribute-name">cy</span>="<a class="attribute-value">144.6</a>" <span class="attribute-name">rx</span>="<a class="attribute-value">0.8</a>" <span class="attribute-name">ry</span>="<a class="attribute-value">0.8</a>"<span>/</span>&gt;</span><span>
+<span id="line118"></span>		</span><span>&lt;/<span class="end-tag">g</span>&gt;</span><span>
+<span id="line119"></span>		</span><span>&lt;<span class="start-tag">g</span>&gt;</span><span>
+<span id="line120"></span>			</span><span>&lt;<span class="start-tag">g</span>&gt;</span><span>
+<span id="line121"></span>				</span><span>&lt;<span class="start-tag">g</span>&gt;</span><span>
+<span id="line122"></span>					</span><span>&lt;<span class="start-tag">path</span> <span class="attribute-name">class</span>="<a class="attribute-value">globe_path7</a>" <span class="attribute-name">d</span>="<a class="attribute-value">M258.6,205.6c0,0-14-8-14-27l14-5.2V205.6z</a>"<span>/</span>&gt;</span><span>
+<span id="line123"></span>					</span><span>&lt;<span class="start-tag">path</span> <span class="attribute-name">class</span>="<a class="attribute-value">globe_path8</a>" <span class="attribute-name">d</span>="<a class="attribute-value">M258.6,205.6c0,0,14-8,14-27l-14-5.2V205.6z</a>"<span>/</span>&gt;</span><span>
+<span id="line124"></span>				</span><span>&lt;/<span class="end-tag">g</span>&gt;</span><span>
+<span id="line125"></span>				</span><span>&lt;<span class="start-tag">g</span>&gt;</span><span>
+<span id="line126"></span>					</span><span>&lt;<span class="start-tag">path</span> <span class="attribute-name">class</span>="<a class="attribute-value">globe_path7</a>" <span class="attribute-name">d</span>="<a class="attribute-value">M258.6,205.6c0,0-14-8-14-27l14-5.2V205.6z</a>"<span>/</span>&gt;</span><span>
+<span id="line127"></span>					</span><span>&lt;<span class="start-tag">path</span> <span class="attribute-name">class</span>="<a class="attribute-value">globe_path8</a>" <span class="attribute-name">d</span>="<a class="attribute-value">M258.6,205.6c0,0,14-8,14-27l-14-5.2V205.6z</a>"<span>/</span>&gt;</span><span>
+<span id="line128"></span>				</span><span>&lt;/<span class="end-tag">g</span>&gt;</span><span>
+<span id="line129"></span>			</span><span>&lt;/<span class="end-tag">g</span>&gt;</span><span>
+<span id="line130"></span>			</span><span>&lt;<span class="start-tag">polygon</span> <span class="attribute-name">class</span>="<a class="attribute-value">globe_path9</a>" <span class="attribute-name">points</span>="<a class="attribute-value">264.6,185.9 259.8,185.9 259.8,181 257.5,181 257.5,185.9 252.6,185.9 252.6,188.2 257.5,188.2 
+<span id="line131"></span>				257.5,193 259.8,193 259.8,188.2 264.6,188.2 			</a>"<span>/</span>&gt;</span><span>
+<span id="line132"></span>		</span><span>&lt;/<span class="end-tag">g</span>&gt;</span><span>
+<span id="line133"></span>	</span><span>&lt;/<span class="end-tag">g</span>&gt;</span><span>
+<span id="line134"></span>	</span><span>&lt;<span class="start-tag">polygon</span> <span class="attribute-name">class</span>="<a class="attribute-value">globe_path7</a>" <span class="attribute-name">points</span>="<a class="attribute-value">349.9,126.1 345.6,119.8 319.1,137.7 307.6,125.7 302.1,131 318.1,147.6 318.1,147.6 318.1,147.6 	</a>"<span>/</span>&gt;</span><span>
+<span id="line135"></span>	</span><span>&lt;<span class="start-tag">g</span>&gt;</span><span>
+<span id="line136"></span>		</span><span>&lt;<span class="start-tag">g</span>&gt;</span><span>
+<span id="line137"></span>			</span><span>&lt;<span class="start-tag">g</span>&gt;</span><span>
+<span id="line138"></span>				</span><span>&lt;<span class="start-tag">g</span>&gt;</span><span>
+<span id="line139"></span>					</span><span>&lt;<span class="start-tag">path</span> <span class="attribute-name">class</span>="<a class="attribute-value">globe_path7</a>" <span class="attribute-name">d</span>="<a class="attribute-value">M33.6,137.6c0,0-33.4-19.1-33.4-64.7l33.4-12.5V137.6z</a>"<span>/</span>&gt;</span><span>
+<span id="line140"></span>					</span><span>&lt;<span class="start-tag">path</span> <span class="attribute-name">class</span>="<a class="attribute-value">globe_path8</a>" <span class="attribute-name">d</span>="<a class="attribute-value">M33.6,137.6c0,0,33.4-19.1,33.4-64.7L33.6,60.4V137.6z</a>"<span>/</span>&gt;</span><span>
+<span id="line141"></span>				</span><span>&lt;/<span class="end-tag">g</span>&gt;</span><span>
+<span id="line142"></span>				</span><span>&lt;<span class="start-tag">g</span>&gt;</span><span>
+<span id="line143"></span>					</span><span>&lt;<span class="start-tag">path</span> <span class="attribute-name">class</span>="<a class="attribute-value">globe_path7</a>" <span class="attribute-name">d</span>="<a class="attribute-value">M33.6,137.6c0,0-33.4-19.1-33.4-64.7l33.4-12.5V137.6z</a>"<span>/</span>&gt;</span><span>
+<span id="line144"></span>					</span><span>&lt;<span class="start-tag">path</span> <span class="attribute-name">class</span>="<a class="attribute-value">globe_path8</a>" <span class="attribute-name">d</span>="<a class="attribute-value">M33.6,137.6c0,0,33.4-19.1,33.4-64.7L33.6,60.4V137.6z</a>"<span>/</span>&gt;</span><span>
+<span id="line145"></span>				</span><span>&lt;/<span class="end-tag">g</span>&gt;</span><span>
+<span id="line146"></span>			</span><span>&lt;/<span class="end-tag">g</span>&gt;</span><span>
+<span id="line147"></span>		</span><span>&lt;/<span class="end-tag">g</span>&gt;</span><span>
+<span id="line148"></span>		</span><span>&lt;<span class="start-tag">g</span>&gt;</span><span>
+<span id="line149"></span>			</span><span>&lt;<span class="start-tag">path</span> <span class="attribute-name">class</span>="<a class="attribute-value">globe_path10</a>" <span class="attribute-name">d</span>="<a class="attribute-value">M39.3,102.8c-0.6,0-1.1-0.2-1.5-0.7c-1-1.2-2.5-1.8-4.1-1.8c-1.6,0-3,0.6-4.1,1.8c-0.8,0.8-2.1,0.9-2.9,0.1
+<span id="line150"></span>				c-0.8-0.8-0.9-2.1-0.1-2.9c1.8-2,4.4-3.2,7.2-3.2c2.7,0,5.3,1.2,7.2,3.2c0.8,0.8,0.7,2.2-0.1,2.9
+<span id="line151"></span>				C40.3,102.6,39.8,102.8,39.3,102.8L39.3,102.8z M39.3,102.8</a>"<span>/</span>&gt;</span><span>
+<span id="line152"></span>			</span><span>&lt;<span class="start-tag">g</span>&gt;</span><span>
+<span id="line153"></span>				</span><span>&lt;<span class="start-tag">path</span> <span class="attribute-name">class</span>="<a class="attribute-value">globe_path10</a>" <span class="attribute-name">d</span>="<a class="attribute-value">M43.9,97.6c-0.5,0-1.1-0.2-1.5-0.6c-2.3-2.3-5.5-3.6-8.8-3.6c-3.3,0-6.4,1.3-8.8,3.6
+<span id="line154"></span>					c-0.8,0.8-2.1,0.8-2.9,0c-0.8-0.8-0.8-2.1,0-2.9c3.1-3.1,7.3-4.8,11.7-4.8c4.4,0,8.6,1.7,11.7,4.8c0.8,0.8,0.8,2.1,0,2.9
+<span id="line155"></span>					C44.9,97.4,44.4,97.6,43.9,97.6L43.9,97.6z M43.9,97.6</a>"<span>/</span>&gt;</span><span>
+<span id="line156"></span>				</span><span>&lt;<span class="start-tag">path</span> <span class="attribute-name">class</span>="<a class="attribute-value">globe_path10</a>" <span class="attribute-name">d</span>="<a class="attribute-value">M48.4,92.5c-0.5,0-1-0.2-1.4-0.6c-3.6-3.5-8.4-5.4-13.4-5.4c-5,0-9.8,1.9-13.4,5.4
+<span id="line157"></span>					c-0.8,0.8-2.1,0.8-2.9-0.1c-0.8-0.8-0.8-2.1,0.1-2.9c4.4-4.2,10.2-6.5,16.3-6.5c6.1,0,11.9,2.3,16.2,6.5
+<span id="line158"></span>					c0.8,0.8,0.9,2.1,0.1,2.9C49.5,92.2,49,92.5,48.4,92.5L48.4,92.5z M48.4,92.5</a>"<span>/</span>&gt;</span><span>
+<span id="line159"></span>			</span><span>&lt;/<span class="end-tag">g</span>&gt;</span><span>
+<span id="line160"></span>			</span><span>&lt;<span class="start-tag">path</span> <span class="attribute-name">class</span>="<a class="attribute-value">globe_path10</a>" <span class="attribute-name">d</span>="<a class="attribute-value">M36.1,105.8c0,1.4-1.1,2.5-2.5,2.5c-1.4,0-2.5-1.1-2.5-2.5c0-1.4,1.1-2.5,2.5-2.5
+<span id="line161"></span>				C35,103.3,36.1,104.5,36.1,105.8L36.1,105.8z M36.1,105.8</a>"<span>/</span>&gt;</span><span>
+<span id="line162"></span>		</span><span>&lt;/<span class="end-tag">g</span>&gt;</span><span>
+<span id="line163"></span>	</span><span>&lt;/<span class="end-tag">g</span>&gt;</span><span>
+<span id="line164"></span>	</span><span>&lt;<span class="start-tag">g</span>&gt;</span><span>
+<span id="line165"></span>		</span><span>&lt;<span class="start-tag">path</span> <span class="attribute-name">class</span>="<a class="attribute-value">globe_path7</a>" <span class="attribute-name">d</span>="<a class="attribute-value">M50.4,224.1c-6.7,4.1-11.6,9.3-13.6,11.7l-5.1-4c-0.1-0.1-2.9,2.4-2.8,2.4l9.2,9.4c0.1,0.1,0.2,0.1,0.3,0.1
+<span id="line166"></span>			c0,0,0,0,0.1,0c0.1,0,0.2-0.1,0.3-0.2c1.5-3.8,6.4-11.7,12.6-17.5c0.1-0.1,0.2-0.3,0.1-0.4C51.5,225.5,50.5,224,50.4,224.1
+<span id="line167"></span>			L50.4,224.1z M50.4,224.1</a>"<span>/</span>&gt;</span><span>
+<span id="line168"></span>		</span><span>&lt;<span class="start-tag">path</span> <span class="attribute-name">class</span>="<a class="attribute-value">globe_path7</a>" <span class="attribute-name">d</span>="<a class="attribute-value">M56.4,215.8c-14,0-16.3-5.3-16.3-5.3c-0.1-0.3-0.4-0.4-0.6-0.4h0c-0.3,0-0.5,0.2-0.6,0.4
+<span id="line169"></span>			c0,0.1-2.4,5.4-16.3,5.4c-0.4,0-0.7,0.3-0.7,0.7v23.7c0,9.7,16.7,17.1,17.4,17.5c0.1,0,0.2,0.1,0.3,0.1c0.1,0,0.2,0,0.3-0.1
+<span id="line170"></span>			c0.7-0.3,17.4-7.7,17.4-17.5v-23.7C57.1,216.1,56.8,215.8,56.4,215.8L56.4,215.8z M53.3,238.8c0,7.6-13.1,13.4-13.6,13.7
+<span id="line171"></span>			c-0.1,0-0.1,0-0.2,0c-0.1,0-0.1,0-0.2,0c-0.5-0.2-13.6-6.1-13.6-13.7v-18.6c0-0.3,0.2-0.5,0.5-0.5c10.9,0,12.8-4.2,12.8-4.2
+<span id="line172"></span>			c0.1-0.2,0.3-0.3,0.5-0.3h0c0.2,0,0.4,0.1,0.5,0.3c0,0,1.9,4.2,12.8,4.2c0.3,0,0.5,0.2,0.5,0.5V238.8z M53.3,238.8</a>"<span>/</span>&gt;</span><span>
+<span id="line173"></span>	</span><span>&lt;/<span class="end-tag">g</span>&gt;</span><span>
+<span id="line174"></span>	</span><span>&lt;<span class="start-tag">path</span> <span class="attribute-name">class</span>="<a class="attribute-value">globe_path16</a>" <span class="attribute-name">d</span>="<a class="attribute-value">M79.6,166.4l-8.1,7.2H35.3c-2.6,5-7.8,8.5-13.9,8.5c-8.6,0-15.6-7-15.6-15.6h11c0,2.5,2.1,4.6,4.6,4.6
+<span id="line175"></span>		c2.5,0,4.6-2.1,4.6-4.6H79.6z</a>"<span>/</span>&gt;</span><span>
+<span id="line176"></span>	</span><span>&lt;<span class="start-tag">path</span> <span class="attribute-name">class</span>="<a class="attribute-value">globe_path17</a>" <span class="attribute-name">d</span>="<a class="attribute-value">M16.8,166.4H26c0,2.5-2.1,4.6-4.6,4.6C18.8,171,16.8,169,16.8,166.4z</a>"<span>/</span>&gt;</span><span>
+<span id="line177"></span></span><span>&lt;/<span class="end-tag">g</span>&gt;</span><span>
+<span id="line178"></span></span><span>&lt;/<span class="end-tag">svg</span>&gt;</span><span>
+<span id="line179"></span></span></pre><menu type="context" id="actions"><menuitem id="goToLine" label="Go to Line…" accesskey="L"></menuitem><menuitem id="wrapLongLines" label="Wrap Long Lines" type="checkbox"></menuitem><menuitem id="highlightSyntax" label="Syntax Highlighting" type="checkbox" checked="true"></menuitem></menu></body></html>
