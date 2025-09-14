@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Eli's Portfolio</title>
+  <link rel="stylesheet" href="styles.css" />
+  <style>
+    /* Simple in-page styling; move to styles.css for production */
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      background: #f9f9f9;
+      color: #333;
+      line-height: 1.6;
+    }
+    header {
+      background: #4b6cb7; /* gradient fallback */
+      background: linear-gradient(90deg, #182848 0%, #4b6cb7 100%);
+      color: white;
+      text-align: center;
+      padding: 2rem 1rem;
+    }
+    header h1 {
+      margin: 0;
+      font-size: 2.5rem;
+    }
+    main {
+      max-width: 1000px;
+      margin: 2rem auto;
+      padding: 0 1rem;
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+      gap: 2rem;
+    }
+    section {
+      background: white;
+      border-radius: 12px;
+      box-shadow: 0 4px 10px rgba(0,0,0,0.08);
+      overflow: hidden;
+      display: flex;
+      flex-direction: column;
+    }
+    section img {
+      width: 100%;
+      height: 180px;
+      object-fit: cover;
+    }
+    section h2 {
+      margin: 1rem;
+      font-size: 1.4rem;
+      color: #182848;
+    }
+    section p {
+      margin: 0 1rem 1rem;
+    }
+    footer {
+      text-align: center;
+      padding: 2rem 1rem;
+      background: #eee;
+      font-size: 0.9rem;
+      color: #555;
+    }
+    a.button {
+      margin: 0 1rem 1.5rem;
+      padding: 0.6rem 1rem;
+      background: #4b6cb7;
+      color: white;
+      text-decoration: none;
+      border-radius: 6px;
+      text-align: center;
+      display: inline-block;
+      transition: background 0.3s;
+    }
+    a.button:hover {
+      background: #182848;
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>Eli's Creative & ML Portfolio</h1>
+  <p>Showcasing Web Design & Machine Learning Projects</p>
+</header>
+
+<main>
+
+  <!-- Web Designs Section -->
+  <section>
+    <img src="images/webdesign-thumb.jpg" alt="Web Design preview">
+    <h2>Web Design Showcase</h2>
+    <p>Explore responsive websites, UI concepts, and creative layouts I’ve built with HTML, CSS, and modern frameworks.</p>
+    <a class="button" href="Acsan/index.html">View Designs</a>
+  </section>
+
+  <!-- Machine Learning Section -->
+  <section>
+    <img src="images/ml-thumb.jpg" alt="Machine Learning preview">
+    <h2>Machine Learning Projects</h2>
+    <p>From computer vision to NLP, see notebooks, reports, and live demos of my ML experiments and research.</p>
+    <a class="button" href="Acsan2/index.html">View ML Projects</a>
+  </section>
+
+</main>
+
+<footer>
+  &copy; 2025 Eli &bull; <a href="https://github.com/yourusername">GitHub</a> &bull; 
+  <a href="mailto:you@example.com">Contact</a>
+</footer>
+
+</body>
+</html>
