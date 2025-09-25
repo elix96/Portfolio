@@ -777,8 +777,8 @@
 	sv.add("(min-width: 1199px)", () => {
 		let tl = gsap.timeline();
 		let projectpanels = document.querySelectorAll('.tp-service-pp-panel');
-		let baseOffset = 130;
-		let offsetIncrement = 130;
+		let baseOffset = 100;
+		let offsetIncrement = 100;
 
 		projectpanels.forEach((section, index) => {
 			let topOffset = baseOffset + (index * offsetIncrement);

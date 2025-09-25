@@ -970,7 +970,7 @@ input[type=color] {
 
 @media only screen and (min-width: 1200px) and (max-width: 1399px), only screen and (min-width: 992px) and (max-width: 1199px), only screen and (min-width: 768px) and (max-width: 991px), only screen and (min-width: 576px) and (max-width: 767px), (max-width: 574.98px) {
   .pt-140 {
-    padding-top: 100px;
+    padding-top: 0px;
   }
 }
 
@@ -11214,11 +11214,11 @@ body.tp-magic-cursor #magic-cursor {
 .tp-hero-vp-title {
   font-weight: 800;
   font-size: 505px;
-  line-height: 73%;
+  line-height: 20%;
 }
 @media only screen and (min-width: 1700px) and (max-width: 1800px), only screen and (min-width: 1600px) and (max-width: 1700px) {
   .tp-hero-vp-title {
-    font-size: 450px;
+    font-size: 150px;
   }
 }
 @media only screen and (min-width: 1400px) and (max-width: 1599px) {
@@ -11228,27 +11228,27 @@ body.tp-magic-cursor #magic-cursor {
 }
 @media only screen and (min-width: 1200px) and (max-width: 1399px) {
   .tp-hero-vp-title {
-    font-size: 330px;
+    font-size: 130px;
   }
 }
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
   .tp-hero-vp-title {
-    font-size: 270px;
+    font-size: 170px;
   }
 }
 @media only screen and (min-width: 768px) and (max-width: 991px) {
   .tp-hero-vp-title {
-    font-size: 210px;
+    font-size: 110px;
   }
 }
 @media only screen and (min-width: 576px) and (max-width: 767px) {
   .tp-hero-vp-title {
-    font-size: 150px;
+    font-size: 50px;
   }
 }
 @media (max-width: 574.98px) {
   .tp-hero-vp-title {
-    font-size: 92px;
+    font-size: 45px;
   }
 }
 .tp-hero-vp-spacing {
@@ -26208,7 +26208,7 @@ body.tp-magic-cursor #magic-cursor {
   background: var(--tp-grey-8);
 }
 .aleric-dark .tp-blog-pp-item {
-  border: 1px solid var(--tp-border-3);
+  border: none;
 }
 .aleric-dark .tp-header-wd-wrap {
   border-color: var(--tp-border-3);
